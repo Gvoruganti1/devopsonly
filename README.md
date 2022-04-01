@@ -1,0 +1,2 @@
+# devopsonly
+to learn devops
